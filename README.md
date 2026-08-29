@@ -23,7 +23,7 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | **[Auto Ping Booster (Free)](https://github.com/pingbooster/auto-ping-booster)** | Lightweight URL pinging and indexing notifications for WordPress | Released — 7.0.1 |
 | **Auto Ping Booster Pro** | Advanced indexing workflows, analytics integration, redirects, sitemaps and technical SEO tools | Released and maintained |
 | **[Baidu Ping Booster](https://github.com/pingbooster/baidu-ping-booster)** | Baidu-focused URL submission, queue processing and indexing support for WordPress | Released — 2.1.0 |
-| **Share Bee (Free)** | Lightweight social sharing for WordPress posts, pages and WooCommerce products | Released |
+| **[Share Bee (Free)](https://github.com/pingbooster/share-bee)** | Lightweight social sharing for WordPress posts, pages and WooCommerce products | Released — 1.0.0 |
 | **Share Bee Pro** | Advanced social and AI-assisted sharing workflows for WordPress | Active development and maintenance |
 | **Auto Figure Jin (Free)** | Registered-user feedback with validation and structured data | WordPress.org review |
 | **Auto Figure Jin Pro** | Extended feedback-management and website-growth functionality | Private development |
