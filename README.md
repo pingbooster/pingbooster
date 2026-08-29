@@ -26,6 +26,7 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | **Auto Figure Jin** | Registered-user feedback with validation and structured data | In review |
 | **Post Chick** | WordPress content-writing assistance | In development |
 | **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
+| **Funky Ad** | Interactive animated advertising and configurable image-link experiences for WordPress | In development |
 | **PB Board** | Client project communication and reporting for Android | In development |
 
 > Source repositories will be added individually after each project has completed its release and security review.
