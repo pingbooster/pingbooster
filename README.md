@@ -21,9 +21,11 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | Project | Focus | Status |
 | --- | --- | --- |
 | **Auto Ping Booster** | Search indexing, ping management and technical website tools | Active |
+| **Baidu Ping Booster** | Baidu-focused URL notification and indexing support for WordPress | Released |
 | **Share Bee** | Lightweight social and AI-assisted sharing for WordPress | Released |
 | **Auto Figure Jin** | Registered-user feedback with validation and structured data | In review |
 | **Post Chick** | WordPress content-writing assistance | In development |
+| **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
 | **PB Board** | Client project communication and reporting for Android | In development |
 
 > Source repositories will be added individually after each project has completed its release and security review.
