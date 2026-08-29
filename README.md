@@ -20,7 +20,8 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 
 | Project | Focus | Status |
 | --- | --- | --- |
-| **Auto Ping Booster** | Search indexing, ping management and technical website tools | Active |
+| **Auto Ping Booster (Free)** | Lightweight URL pinging and indexing notifications for WordPress | Released |
+| **Auto Ping Booster Pro** | Advanced indexing workflows, analytics integration, redirects, sitemaps and technical SEO tools | Released and maintained |
 | **Baidu Ping Booster** | Baidu-focused URL notification and indexing support for WordPress | Released |
 | **Share Bee** | Lightweight social and AI-assisted sharing for WordPress | Released |
 | **Auto Figure Jin** | Registered-user feedback with validation and structured data | In review |
