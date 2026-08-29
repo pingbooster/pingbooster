@@ -23,11 +23,15 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | **Auto Ping Booster (Free)** | Lightweight URL pinging and indexing notifications for WordPress | Released |
 | **Auto Ping Booster Pro** | Advanced indexing workflows, analytics integration, redirects, sitemaps and technical SEO tools | Released and maintained |
 | **Baidu Ping Booster** | Baidu-focused URL notification and indexing support for WordPress | Released |
-| **Share Bee** | Lightweight social and AI-assisted sharing for WordPress | Released |
-| **Auto Figure Jin** | Registered-user feedback with validation and structured data | In review |
-| **Post Chick** | WordPress content-writing assistance | In development |
+| **Share Bee (Free)** | Lightweight social sharing for WordPress posts, pages and WooCommerce products | Released |
+| **Share Bee Pro** | Advanced social and AI-assisted sharing workflows for WordPress | Active development and maintenance |
+| **Auto Figure Jin (Free)** | Registered-user feedback with validation and structured data | WordPress.org review |
+| **Auto Figure Jin Pro** | Extended feedback-management and website-growth functionality | Private development |
+| **Post Chick (Free)** | Practical WordPress content-writing assistance | In development |
+| **Post Chick Pro** | Advanced AI-assisted content workflows and publishing support | In development |
 | **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
 | **Funky Ad** | Interactive animated advertising and configurable image-link experiences for WordPress | In development |
+| **PB Agency Platform & Add-ons** | Proprietary client-service platform with modular SEO, GEO, web-development and plugin-development workflows | Private development |
 | **PB Board** | Client project communication and reporting for Android | In development |
 
 > Source repositories will be added individually after each project has completed its release and security review.
