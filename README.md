@@ -21,12 +21,12 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | Project | Focus | Status |
 | --- | --- | --- |
 | **[Auto Ping Booster (Free)](https://github.com/pingbooster/auto-ping-booster)** | Lightweight URL pinging and indexing notifications for WordPress | Released — 7.0.1 |
-| **Auto Ping Booster Pro** | Advanced indexing workflows, analytics integration, redirects, sitemaps and technical SEO tools | Released and maintained |
+| **[Auto Ping Booster Pro](https://pingbooster.site/plugins/auto-ping-booster-pro/)** | Advanced indexing workflows, analytics integration, redirects, sitemaps and technical SEO tools | Released and maintained |
 | **[Baidu Ping Booster](https://github.com/pingbooster/baidu-ping-booster)** | Baidu-focused URL submission, queue processing and indexing support for WordPress | Released — 2.1.0 |
 | **[Share Bee (Free)](https://github.com/pingbooster/share-bee)** | Lightweight social sharing for WordPress posts, pages and WooCommerce products | Released — 1.0.0 |
-| **Share Bee Pro** | Advanced social and AI-assisted sharing workflows for WordPress | Active development and maintenance |
+| **[Share Bee Pro](https://pingbooster.site/plugins/share-bee-pro/)** | Advanced social and AI-assisted sharing workflows for WordPress | Active development and maintenance |
 | **[Auto Figure Jin (Free)](https://github.com/pingbooster/auto-figure-jin)** | Author-controlled registered-user reviews with spam revalidation and structured data | Released — 1.0.0 |
-| **Auto Figure Jin Pro** | Extended feedback-management and website-growth functionality | Private development |
+| **[Auto Figure Jin Pro](https://pingbooster.site/plugins/auto-figure-jin-pro/)** | Extended feedback-management and website-growth functionality | Private development |
 | **[Post Chick (Free)](https://github.com/pingbooster/post-chick)** | Live writing and SEO checks, green completion ticks, local assistance and editorial draft protection | Released — 1.1.2 |
 | **[Post Chick Pro](https://pingbooster.site/plugins/post-chick-pro/)** | Separately licensed premium writing and publishing workflows | Released and maintained |
 | **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
