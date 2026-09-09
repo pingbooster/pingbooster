@@ -29,6 +29,8 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | **[Auto Figure Jin Pro](https://pingbooster.site/plugins/auto-figure-jin-pro/)** | Extended feedback-management and website-growth functionality | Private development |
 | **[Post Chick (Free)](https://github.com/pingbooster/post-chick)** | Live writing and SEO checks, green completion ticks, local assistance and editorial draft protection | Released — 1.1.2 |
 | **[Post Chick Pro](https://pingbooster.site/plugins/post-chick-pro/)** | Separately licensed premium writing and publishing workflows | Released and maintained |
+| **WhatsApp Channel Widget** | Channel-only follow and invitation widget with shortcode, footer/sidebar placement and optional floating button | Pending WordPress.org submission |
+| **Pal Cursor** | Lightweight customizable cursor-effect plugin designed to avoid affecting website speed or the header | Pending WordPress.org submission |
 | **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
 | **Funky Ad** | Interactive animated advertising and configurable image-link experiences for WordPress | In development |
 | **PB Agency Platform & Add-ons** | Proprietary client-service platform with modular SEO, GEO, web-development and plugin-development workflows | Private development |
