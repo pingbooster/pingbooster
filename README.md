@@ -27,8 +27,8 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 | **Share Bee Pro** | Advanced social and AI-assisted sharing workflows for WordPress | Active development and maintenance |
 | **[Auto Figure Jin (Free)](https://github.com/pingbooster/auto-figure-jin)** | Author-controlled registered-user reviews with spam revalidation and structured data | Released — 1.0.0 |
 | **Auto Figure Jin Pro** | Extended feedback-management and website-growth functionality | Private development |
-| **Post Chick (Free)** | Practical WordPress content-writing assistance | In development |
-| **Post Chick Pro** | Advanced AI-assisted content workflows and publishing support | In development |
+| **[Post Chick (Free)](https://github.com/pingbooster/post-chick)** | Live writing and SEO checks, green completion ticks, local assistance and editorial draft protection | Released — 1.1.2 |
+| **[Post Chick Pro](https://pingbooster.site/plugins/post-chick-pro/)** | Separately licensed premium writing and publishing workflows | Released and maintained |
 | **Talk With Angel** | Voice-assisted WordPress administration, diagnostics and local knowledge | In development |
 | **Funky Ad** | Interactive animated advertising and configurable image-link experiences for WordPress | In development |
 | **PB Agency Platform & Add-ons** | Proprietary client-service platform with modular SEO, GEO, web-development and plugin-development workflows | Private development |
