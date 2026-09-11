@@ -38,6 +38,13 @@ We work across **Search Engine Optimization (SEO)**, **Generative Engine Optimiz
 
 > Source repositories will be added individually after each project has completed its release and security review.
 
+## Resources & Guides
+
+- **[WordPress Plugin Launch and Indexing Checklist](https://blog.pingbooster.site/wordpress-plugin-launch-indexing-checklist/)** — A practical, evergreen guide covering plugin planning, technical testing, WordPress.org preparation, documentation, GitHub, search discovery, ethical promotion and post-launch monitoring.
+- [PingBooster Updates](https://blog.pingbooster.site/updates/) — Plugin releases, development notes and practical WordPress guidance.
+- [Free WordPress Plugins](https://pingbooster.site/free-plugins/) — Explore PingBooster's publicly available WordPress tools.
+- [Premium WordPress Plugins](https://pingbooster.site/pro-plugins/) — Advanced tools and extended workflows for WordPress websites.
+
 ## Technology
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
